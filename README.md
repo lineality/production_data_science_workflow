@@ -1,12 +1,12 @@
 #### production_data_science_workflow
 
 # Navigating Production Data-Science Workflow in Agile Teams
+2026.07.15 Geoffrey Gordon Ashbrook
 
 
 ## Novel Aspects of Data-Science Workflow
 
-Cross functional teams and leadership who are accustomed to frontend, backend, and other software engineering (often with standard Agile-like routines) frequently find it difficult quicly include Data Science into their habitually-familiar norms. Conceptually the changes may seem easy, but there is a powerful momentum in the psychology of perception to have the illusion of a flexible, adaptable, generalizable STEM understanding while behavior suggests a rigid and reactionary cargo-cult of unexamined retro-active rationalization of what has been done. 
-
+Cross functional teams and leadership who are accustomed to frontend, backend, and other software engineering (often with standard Agile-like routines) frequently find it difficult to quickly include Data Science into their habitually-familiar norms. 
 
 While both Agile-Software-Development and Data-Science are within STEM more broadly, Data Science projects typically have workflows that differ in important ways from standard front-end or backend work. The goal here is not to go into all the specific steps and details of model-making workflows (those can fit within one broader area below), the goal here is to outline at a higher level some of the 'invisible' unanticipated aspects of Data Science workflow that most often cause preventable issues in workplace projects (and so also could be better covered in educational programs).
 
@@ -51,6 +51,10 @@ Avoiding 3rd party dependencies takes more planning but is better in the long te
 
 7. Jargon, Terminology, & Lexicons:
 Sadly, the quagmire of terminology in Data Science can be a formidable minefield that unavoidably takes time to clearly navigate. There are many terms such as 'model' 'parameter' 'loss' and 'benchmark' that are colliding jargon terms that have different technical definitions in different sub-areas of Data-Science. There are also many common-language terms, such as 'classification' or 'model' or 'explain,' that must be carefully mapped onto the tangled lexicon of Data-Science. If this is not navigated, the project will be a hidden confusion of undefinable word-salad illusions that everyone is interpreting differently and such cannot result in a successful team build. 
+
+8. Conceptually the changes involved in including Data-Science workflow into habits for an existing no-data-science set of practices and policies may seem easy, but there is a powerful momentum in the psychology of perception to have the illusion of a flexible, adaptable, generalizable STEM understanding while behavior suggests a rigid and reactionary cargo-cult of unexamined retro-active rationalization of what has been done. 
+
+
 
 An especially important area here is the 'explainability' or 'auditability' of a system. Both the social requirements and the array of technologies have evolved over time, and the planning and conversation around this cannot be expected to happen quickly and easily. Pressure to punt on this question should be resisted with vigilance.
 
